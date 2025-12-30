@@ -14,5 +14,10 @@ obj/
 .DS_Store
 Thumbs.db
 
-# Node modules (React frontend, if inside same repo)
+# Node modules (React frontend)
 node_modules/
+
+# SQLite database files
+*.db
+*.db-shm
+*.db-wal
